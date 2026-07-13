@@ -68,7 +68,7 @@ Three PivotTables built from the cleaned data:
 *(Add a screenshot of your Dashboard sheet — see checklist below)*
 
 ```markdown
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](https://github.com/Aaravvv-git/bike-buyers--excel-dashboard/blob/main/Screenshot%202026-07-13%20195900.png)
 ```
 
 ## Author
