@@ -1,4 +1,4 @@
-# 🚲 Bike Buyers — Customer Analysis & Sales Dashboard
+# Bike Buyers — Customer Analysis & Sales Dashboard
 
 An interactive Excel dashboard that analyzes customer demographics to understand what drives bicycle purchase decisions, built with PivotTables, PivotCharts, and Slicers.
 
