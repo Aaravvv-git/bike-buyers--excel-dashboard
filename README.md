@@ -63,14 +63,6 @@ Three PivotTables built from the cleaned data:
 3. Go to the **Dashboard** sheet
 4. Use the slicers (Marital Status, Education, Region) to filter the visuals interactively
 
-## Dashboard Preview
-
-*(Add a screenshot of your Dashboard sheet — see checklist below)*
-
-```markdown
-![Dashboard Preview](https://github.com/Aaravvv-git/bike-buyers--excel-dashboard/blob/main/Screenshot%202026-07-13%20195900.png)
-```
-
 ## Author
 
 **Aarav Gupta**
