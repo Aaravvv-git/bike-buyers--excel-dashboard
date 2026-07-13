@@ -2,11 +2,11 @@
 
 An interactive Excel dashboard that analyzes customer demographics to understand what drives bicycle purchase decisions, built with PivotTables, PivotCharts, and Slicers.
 
-## 📌 Objective
+## Objective
 
 To explore how factors like income, gender, commute distance, and age influence whether a customer purchases a bike, and to present the findings through a single-page interactive dashboard.
 
-## 📁 Repository Contents
+## Repository Contents
 
 | File | Description |
 |---|---|
@@ -14,12 +14,12 @@ To explore how factors like income, gender, commute distance, and age influence 
 | `README.md` | Project documentation (this file) |
 | `screenshots/dashboard.png` | *(add this — see checklist below)* Preview image of the dashboard |
 
-## 🗃️ Dataset
+## Dataset
 
 - **1,000 customer records**
 - **13 attributes:** ID, Marital Status, Gender, Income, Children, Education, Occupation, Home Owner, Cars, Commute Distance, Region, Age, Purchased Bike
 
-## 🧱 Workbook Structure
+## Workbook Structure
 
 **1. `bike_buyers` — Raw Data**
 Unmodified source dataset as originally received.
@@ -41,14 +41,14 @@ Three PivotTables built from the cleaned data:
 - PivotCharts (bar + line) visualizing the tables above
 - 3 slicers for interactive filtering: **Marital Status, Education, Region**
 
-## 📈 Key Insights
+## Key Insights
 
 - **48.1%** of customers purchased a bike (481 of 1,000)
 - Average income was **₹56,360**; male customers averaged higher income (₹58,062) than female customers (₹54,581), regardless of purchase outcome
 - Customers with the **shortest commute (0–1 miles)** had both the highest purchase count (200) and the highest purchase rate, while those commuting **10+ miles** were the least likely to buy (33 of 111)
 - The **"Middle Age" bracket (31–54 yrs)** made up the majority of both the overall customer base (701) and of buyers specifically (383)
 
-## 🛠️ Tools & Techniques
+## Tools & Techniques
 
 - Microsoft Excel
   - Formulas (nested `IF`)
@@ -56,14 +56,14 @@ Three PivotTables built from the cleaned data:
   - Slicers for interactive, cross-filtered analysis
   - Manual data cleaning / standardization
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone or download this repository
 2. Open `Excel_Project.xlsx` in Microsoft Excel (2016+ recommended for full slicer support)
 3. Go to the **Dashboard** sheet
 4. Use the slicers (Marital Status, Education, Region) to filter the visuals interactively
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 *(Add a screenshot of your Dashboard sheet — see checklist below)*
 
@@ -71,14 +71,11 @@ Three PivotTables built from the cleaned data:
 ![Dashboard Preview](screenshots/dashboard.png)
 ```
 
-## 👤 Author
+## Author
 
-**Aarav**
+**Aarav Gupta**
 Production & Industrial Engineering, BIT Mesra
 
-- LinkedIn: *(add your profile link)*
-- GitHub: *(add your profile link)*
+- LinkedIn: *(www.linkedin.com/in/aaravgupta14)*
+- GitHub: *(https://github.com/Aaravvv-git)*
 
-## 📄 License
-
-*(Optional — add a license such as MIT if you want others to freely reuse this project)*
